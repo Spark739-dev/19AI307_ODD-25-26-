@@ -33,8 +33,10 @@ To write a Java program that reads two integer numbers from the user and perform
 6. Calculate the difference (num1 - num2), and display the result.
 7. Calculate the product of num1 and num2, and display the result.
 8. Calculate the quotient of num1 divided by num2, and display the result.
-9. Calculate the remainder of num1 divided by num2, and display the result.
-10. End the program.
+9. Calculate the remainder of num1 divided by num2, and display the result and then end The Program.
+    
+
+
 
 
 
