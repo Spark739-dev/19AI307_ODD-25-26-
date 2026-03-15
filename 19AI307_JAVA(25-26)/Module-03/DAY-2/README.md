@@ -10,8 +10,12 @@ To write a Java program that calculates the area of different shapes using metho
 
 ## ALGORITHM :
 1.	Start the program.
-2.	Import the necessary package 'java.util'
-3.	
+2.	Import the necessary package 'java.util'.
+3.	Create a Scanner object to read input values from the user.
+4.	Read the side of the square, create an object of the calculator class, and calculate the area of the square using the area() method.
+5.	Read the length and breadth of the rectangle and calculate the area of the rectangle using the rectangle() method.
+6.	Read the radius of the circle and calculate the area of the circle using the area1() method.
+7.	Display all calculated areas (square, rectangle, and circle) and end the program.
 
 
 
@@ -21,8 +25,8 @@ To write a Java program that calculates the area of different shapes using metho
  ```
 /*
 Program to implement a Polymorphism using Java
-Developed by: 
-RegisterNumber:  
+Developed by: VESHWANTH.
+RegisterNumber:  212224230300
 */
 ```
 
@@ -67,4 +71,4 @@ RegisterNumber:
 
 
 ## RESULT:
-
+Thus,the given program for simple calculation using polymorphism method is successfully implemented.
